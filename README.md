@@ -1,3 +1,3 @@
 # asteroids
 
-Asteroids is my second project on Boot.dev](https://www.boot.dev).
+Asteroids is my second project on https://www.boot.dev
