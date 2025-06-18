@@ -2,7 +2,7 @@
 
 Asteroids is my second project on https://www.boot.dev
 
-Things to do:
+Further improvements:
 
   - Add a scoring system
   - Implement multiple lives and respawning
